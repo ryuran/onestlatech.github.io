@@ -99,7 +99,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Morgan Auchede](https://twitter.com/mauchede)
 * Arthur d'Azémar, Développeur
 * Arnaud Bailly, Développeur
-* [Dylan Ballandras](https://www.dylan-ballandras.fr/), développeur, salarié
 * [Alexandre Balmes](https://alexandre.balmes.co), Consultant technique, Co-fondateur [Vanoix](https://vanoix.com)
 * [Quentin Barloy](https://twitter.com/nitneuq_y), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Timothée Barray](https://twitter.com/timbarray)
@@ -192,7 +191,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Mathieu Marchois](https://twitter.com/mmarchois), développeur [fairness.coop](https://fairness.coop/)
 * [Franck Matsos](https://twitter.com/fmatsos), Développeur Web
 * Colin Maudry, Conseiller indépendant en Open Data
-* [Julien Maulny](https://twitter.com/alcalyn_), développeur
 * [Mehdi Medjaoui](https://twitter.com/medjawii)
 * [Baptiste Meyer](https://twitter.com/meyer_baptiste), associé salarié, [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Romain Neutron](https://twitter.com/romainneutron)
@@ -237,6 +235,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Rodrigue Villetard](https://twitter.com/gorghoa)
 * [Matthieu Werner](https://twitter.com/KeatonSeven), Consultant Web [JoliCode](https://jolicode.com/)
 * Séverine Wiltgen, SRE Mediapart
+* [Yvain Liechti](https://twitter.com/ryuran78), développeur frontend
 
 ### Organisations
 
